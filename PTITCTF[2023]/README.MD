@@ -17,4 +17,7 @@
 - Dịch hết mã đó qua ASCII thì chúng ta được đoạn text như sau `>R!+Q.VEHr`
 - Như vậy chúng ta đã tìm được `source`. Bây giờ để tìm biến `something` thì chúng ta xor biến `source` với biến `xor`
 <br>
+<img src="./solver.png" alt="solver">
+
+- Và chúng ta tìm được `w3Lc0m37iS`. Đến lúc test thử chuong trình
 
