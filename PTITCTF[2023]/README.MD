@@ -46,6 +46,6 @@
 <img src="./hex.png" alt="hex"/>
 <br>
 
-- Sau 1 hồi vọc %p thì tôi có được đoạn hex như trên. 
-- Dịch ra ASCII và không quên đạo ngược lại chữ và t có được flag `PISCTF{W3ll_w311_Y0u_4re_4_BAD_b0y_0r_g1rL_<:}`
+- Sau 1 hồi vọc %p thì chúng ta có được đoạn hex như trên. 
+- Dịch ra ASCII và không quên đảo ngược lại chữ và ta có được flag `PISCTF{W3ll_w311_Y0u_4re_4_BAD_b0y_0r_g1rL_<:}`
                                    
