@@ -25,20 +25,26 @@
 <br>
 - Submit flag thôi PISCTF{My_M1nd_50_3z_RI9ht_?}
 <hr>
-<h3># Level 2 pwn</h3> 
+<h3># Level 2 pwn</h3>
+
 - Chúng ta quăng tiếp file vào Ghidra để đọc mã giả.
 <br>
 <img src="./source2.png" alt="source2"/>
 <br>
+
 - Tập trung nhìn kĩ ta thấy dòng `printf(&cStack144)` => Lỗi format string thiếu `%s`.
+
 <br>
 <img src="./exploit.png" alt="format string"/>
 <br>
+
 - Để vào được vòng if ta lại phải so sánh biến `xor` và `IamHaCaer!!` để vào được vùng có flag (tương tự bài trên).
-- `w3Lc0m37iS`
-- Thử chạy chường trình với input là %p
+- `w3Lc0m37iS`.
+- Thử chạy chường trình với input là %p.
+
 <br>
-<img src="./format.png" alt="format"/>
+<img src="./hex.png" alt="hex"/>
 <br>
 
+- Sau 1 hồi vọc %p thì tôi có được đoạn hex như sau
                                    
