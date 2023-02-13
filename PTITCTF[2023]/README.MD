@@ -1,5 +1,5 @@
 <h1>Write-Up PTITCTF 2023</h1>
-# Level 1 pwn
+<h3># Level 1 pwn</h3>
 
 - Đầu tiên chúng ta quăng file vào Ghidra để coi mã giả.
 
@@ -22,3 +22,9 @@
 - Và chúng ta tìm được `w3Lc0m37iS`. Đến lúc test thử chương trình
 
 <img src="hack.png" alt="Complete"/>
+<br>
+- Submit flag thôi PISCTF{My_M1nd_50_3z_RI9ht_?}
+<hr>
+<h3># Level 2 pwn</h3> 
+- Chúng ta quăng tiếp file vào Ghidra để đọc mã giả.
+- 
