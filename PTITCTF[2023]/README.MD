@@ -25,7 +25,7 @@
 <br>
 
 - Submit flag thôi `PISCTF{My_M1nd_50_3z_RI9ht_?}`
-- 
+
 <hr>
 <h3># Level 2 pwn</h3>
 
