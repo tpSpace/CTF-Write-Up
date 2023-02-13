@@ -19,5 +19,6 @@
 <br>
 <img src="./solver.png" alt="solver">
 
-- Và chúng ta tìm được `w3Lc0m37iS`. Đến lúc test thử chuong trình
+- Và chúng ta tìm được `w3Lc0m37iS`. Đến lúc test thử chương trình
 
+<img src="hack.png" alt="Complete"/>
